@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d774acce-388c-493c-b3bb-6107c963d4cd" name="Changes" comment=",">
-      <change afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1774246767866</updated>
-      <workItem from="1774246769086" duration="2356000" />
+      <workItem from="1774246769086" duration="4773000" />
     </task>
     <task id="LOCAL−00001" summary=",">
       <option name="closed" value="true" />
@@ -100,7 +100,14 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1774248488639</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary=",">
+      <option name="closed" value="true" />
+      <created>1774254428850</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1774254428850</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
