@@ -21,7 +21,6 @@ public class ShoppingCartAppTest {
         assertEquals(10.0, result);
     }
 
-    // ✅ NEW TEST (important for full points)
     @Test
     void testCartTotal() {
         double[] items = {10.0, 20.0, 5.0};
